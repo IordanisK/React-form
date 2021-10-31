@@ -1,3 +1,9 @@
+## React Form Validation 
+
+This project i decided to do a form validation without using any specific libraries. I used useState, useRef and FormData to handle form. 
+
+Hope you enjoy :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
